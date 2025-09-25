@@ -41,40 +41,22 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<!doctype html>
+
 <html lang="en">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Smart Agri-Advisory — Problem Statement</title>
-  <style>
-    :root{--bg:#0f1724;--card:#0b1220;--muted:#9aa4b2;--accent:#16a34a;--glass:rgba(255,255,255,0.03)}
-    body{font-family:Inter,Segoe UI,Roboto,Arial,sans-serif;background:linear-gradient(180deg,#071020 0%, #071827 100%);color:#e6eef6;margin:0;padding:32px}
-    .container{max-width:900px;margin:0 auto}
-    header{display:flex;align-items:center;gap:16px;margin-bottom:24px}
-    header h1{font-size:1.6rem;margin:0}
-    .card{background:var(--card);border-radius:12px;padding:20px;box-shadow:0 6px 18px rgba(2,6,23,0.6);}
-    h2{color:#fff;margin-top:0}
-    p{color:var(--muted);line-height:1.6}
-    ul{color:var(--muted);line-height:1.6}
-    .grid{display:grid;grid-template-columns:1fr 320px;gap:20px}
-    .right{background:var(--glass);padding:16px;border-radius:10px}
-    .badge{display:inline-block;background:rgba(22,163,74,0.12);color:var(--accent);padding:6px 10px;border-radius:999px;font-weight:600;font-size:0.85rem}
-    footer{margin-top:18px;color:var(--muted);font-size:0.9rem}
-    pre{background:#071827;color:#9fd3b2;padding:12px;border-radius:8px;overflow:auto}
-    @media (max-width:900px){.grid{grid-template-columns:1fr}}
-  </style>
+  
 </head>
 <body>
   <div class="container">
     <header>
-      <div class="badge">Smart Agri-Advisory</div>
+      <div class="badge"></div>
       <h1>Problem Statement & Concept Note</h1>
     </header>
 
 <div class="card">
       <div class="grid">
-        <main>
           <section>
             <h2>Problem Statement</h2>
             <p>A majority of India’s <strong>small and marginal farmers</strong> depend on <strong>traditional knowledge, local shopkeepers, or guesswork</strong> for decisions such as crop selection, pest control, and fertilizer application. They rarely receive <strong>personalized, real-time advisory</strong> that accounts for soil type, weather conditions, and crop history.</p>
@@ -130,8 +112,6 @@ Agriculture, FoodTech & Rural Development
             </ul>
           </section>
 
-        </main>
-
 <aside class="right">
           <h3>Quick Implementation Notes</h3>
           <ul>
@@ -141,9 +121,6 @@ Agriculture, FoodTech & Rural Development
             <li>Provide SMS/IVR/voice interfaces in local languages.
             </li>
           </ul>
-
- <h3>Sample Command (for repo)</h3>
-          <pre>git clone https://github.com/&lt;username&gt;/&lt;repo&gt;.git</pre>
 
 <h3>Contact</h3>
           <p style="color:var(--muted)">Include project lead, partner organizations, and potential funders in formal proposals.</p>
@@ -160,30 +137,17 @@ Agriculture, FoodTech & Rural Development
 
 
 ## Technical Approach
-<!doctype html>
+
 <html lang="en">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Smart Agri-Advisory — Technical Approach</title>
-  <style>
-    :root{--bg:#0f1724;--card:#0b1220;--muted:#9aa4b2;--accent:#16a34a;--glass:rgba(255,255,255,0.03)}
-    body{font-family:Inter,Segoe UI,Roboto,Arial,sans-serif;background:linear-gradient(180deg,#071020 0%, #071827 100%);color:#e6eef6;margin:0;padding:32px}
-    .container{max-width:900px;margin:0 auto}
-    header{display:flex;align-items:center;gap:16px;margin-bottom:24px}
-    header h1{font-size:1.6rem;margin:0}
-    .card{background:var(--card);border-radius:12px;padding:20px;box-shadow:0 6px 18px rgba(2,6,23,0.6);}
-    h2{color:#fff;margin-top:0}
-    p{color:var(--muted);line-height:1.6}
-    ul{color:var(--muted);line-height:1.6}
-    code{background:#1e293b;color:#9fd3b2;padding:2px 6px;border-radius:4px}
-    @media (max-width:900px){.grid{grid-template-columns:1fr}}
-  </style>
+  
 </head>
 <body>
   <div class="container">
     <header>
-      <div class="badge" style="background:rgba(22,163,74,0.12);color:var(--accent);padding:6px 10px;border-radius:999px;font-weight:600;font-size:0.85rem">Smart Agri-Advisory</div>
+      <div class="badge" style="background:rgba(22,163,74,0.12);color:var(--accent);padding:6px 10px;border-radius:999px;font-weight:600;font-size:0.85rem"></div>
       <h1>Technical Approach</h1>
     </header>
 
@@ -245,24 +209,17 @@ Agriculture, FoodTech & Rural Development
 </html>
 
 ## Impact and Benefits
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Agri-Advisory Problem Statement</title>
-    <style>
-        body {font-family: Arial, sans-serif; margin: 20px; line-height: 1.6;}
-        h1, h2 {color: #2e7d32;}
-        ul {margin-left: 20px;}
-    </style>
+    
+    
 </head>
 <body>
     <h1>Problem Statement</h1>
     <p>Majority of small and marginal farmers in India rely on traditional knowledge, local shopkeepers, or guesswork for crop selection, pest control, and fertilizer use. They lack access to personalized, real-time advisory services that account for soil type, weather conditions, and crop history. This often leads to poor yield, excessive input costs, and environmental degradation due to overuse of chemicals. Language barriers, low digital literacy, and absence of localized tools further limit their access to modern agri-tech resources.</p>
-
-    <h2>Impact / Why this problem needs to be solved</h2>
-    <p>Helping small farmers make informed decisions can significantly increase productivity, reduce costs, and improve livelihoods. It also contributes to sustainable farming practices, food security, and environmental conservation. A smart advisory solution can empower farmers with scientific insights in their native language and reduce dependency on unreliable third-party advice.</p>
 
 <h2>Expected Outcomes</h2>
     <ul>
@@ -290,7 +247,7 @@ Agriculture, FoodTech & Rural Development
         <li>Studies show ICT-based advisories can increase crop yield by 20–30%.</li>
     </ul>
 
-\<h2>Impact and Benefits</h2>
+<h2>Impact and Benefits</h2>
     <ul>
         <li><strong>Economic Gains:</strong> Higher yields and income through data-driven crop, fertilizer, and pest control advice; reduced input costs and debt cycles.</li>
         <li><strong>Social Empowerment:</strong> Multilingual and voice support ensures inclusive access; farmers gain independence from unreliable middlemen.</li>
@@ -307,12 +264,7 @@ Agriculture, FoodTech & Rural Development
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Agri-Advisory Problem Statement</title>
-    <style>
-        body {font-family: Arial, sans-serif; margin: 20px; line-height: 1.6;}
-        h1, h2 {color: #2e7d32;}
-        ul {margin-left: 20px;}
-    </style>
+    
 </head>
 <body>
     <h1>Problem Statement</h1>
