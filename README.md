@@ -318,3 +318,6 @@ Agriculture, FoodTech & Rural Development
     </ul>
 </body>
 </html>
+
+<img width="929" height="621" alt="image" src="https://github.com/user-attachments/assets/4fcc454e-bb4a-443e-a598-6409a1df837a" />
+
